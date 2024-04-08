@@ -2,7 +2,7 @@ const questionContainer = document.getElementById('question');
 const answersContainer = document.getElementById('answers');
 const progressBar = document.getElementById('progress-bar');
 
-const questions_url = 'https://raw.githubusercontent.com/fsudzinski/QuizQuestions/main/questions.json';
+const questions_url = 'https://raw.githubusercontent.com/fsudzinski/Quiz/main/questions.json';
 let userScore = 0.0;
 let correctAnswers = 0;
 let isAnswerSelected = false;
