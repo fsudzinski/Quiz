@@ -1,0 +1,32 @@
+[
+    {
+      "question": "Kto napisał \"Dziady\"?",
+      "answers": {
+        "0": "Adam Mickiewicz",
+        "1": "Juliusz Słowacki",
+        "2": "Henryk Sienkiewicz",
+        "3": "Stanisław Wyspiański"
+      },
+      "answer": 0,
+      "points": 2
+    },
+    {
+      "question": "Który kraj jest największym producentem kawy na świecie?",
+      "answers": {
+        "0": "Kolumbia",
+        "1": "Brazylia",
+        "2": "Etiopia"
+      },
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "question": "Który pierwiastek chemiczny ma symbol Fe?",
+      "answers": {
+        "0": "Żelazo",
+        "1": "Miedź"
+      },
+      "answer": 0,
+      "points": 1
+    }
+  ]

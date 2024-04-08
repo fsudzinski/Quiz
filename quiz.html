@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz wiedzy</title>
+  <link rel="stylesheet" href="quiz.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Quiz wiedzy</h1>
+    <progress id="progress-bar" class="progress-bar" value="0" max="100"></progress>
+    <div id="question" class="question"></div>
+    <div id="answers" class="answers"></div>
+  </div>
+
+  <script src="quiz.js"></script>
+  <audio id="correctSound" src="correct.mp3"></audio>
+  <audio id="incorrectSound" src="incorrect.mp3"></audio>
+</body>
+</html>
